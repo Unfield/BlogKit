@@ -1,0 +1,23 @@
+[
+  {
+    "href": "/",
+    "title": "Blog"
+  },
+  {
+    "href": "/get-started",
+    "title": "Get Started"
+  },
+  {
+    "href": "/about",
+    "title": "About"
+  },
+  {
+    "href": "/contact",
+    "title": "Contact"
+  },
+  {
+    "href": "/rss.xml",
+    "title": "RSS",
+    "target": "_blank"
+  }
+]
